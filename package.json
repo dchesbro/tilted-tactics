@@ -1,7 +1,7 @@
 {
   "name": "@dchesbro/tilted-tactics",
   "version": "1.0.0",
-  "description": "...",
+  "description": "Over one hundred worthwhile dilemmas by Brian Eno and Peter Schmidt.",
   "main": "index.js",
   "repository": "https://github.com/dchesbro/tilted-tactics.git",
   "author": "Dwight Chesbro <dchesbro@gmail.com>",
