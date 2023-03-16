@@ -8,5 +8,8 @@ export default function tactic() {
   const e = random((strategies.length - 1), 0);
   const t = random((strategies[e].strategies.length - 1), 0);
 
-  return `${strategies[e].strategies[t]} (${strategies[e].name}, ${strategies[e].year})`;
+  return {
+    ...strategies[e],
+    strategies: strategies[e].strategies[t],
+  };
 }
