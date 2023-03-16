@@ -3,13 +3,13 @@
 ### Install w/ `npm`
 
 ```sh
-npm install @dchesbro/tilted-tactics
+npm install dchesbro/tilted-tactics
 ```
 
 ### Install w/ `yarn`
 
 ```sh
-yarn add @dchesbro/tilted-tactics
+yarn add dchesbro/tilted-tactics
 ```
 
 ### Example
